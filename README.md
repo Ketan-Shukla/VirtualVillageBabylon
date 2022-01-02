@@ -1,4 +1,4 @@
-# VirtualVillageBabylon
+# Virtual Village 
 There are 5 buttons on the screen in the bottom part
 a. Entrance: Will take you to the entrance
 b. Corner A: Will take you to fountain area
