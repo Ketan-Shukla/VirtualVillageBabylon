@@ -7,6 +7,6 @@ d. Corner C: Will take you to the road/ main square
 e. Corner D: Will take you to the home with a car
 
 All assets in these corners load dynamically except the houses.
-
+Demo: https://ketan-shukla.github.io/VirtualVillageBabylon/
 ![image](https://user-images.githubusercontent.com/50164021/147885473-4da3d353-b488-4478-bfe1-8688755d5469.png)
 
